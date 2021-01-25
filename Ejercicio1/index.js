@@ -1,4 +1,3 @@
-console.log();
 // base 16 * 23 cm
 // altura 13 cm 
 
