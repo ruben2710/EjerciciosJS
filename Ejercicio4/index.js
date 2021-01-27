@@ -13,7 +13,7 @@ if(numero2 >= 0) {
     alert ("numero2 es positivo");
  }
 
- if(numero1 < 0) {
+ if(numero1 > 0) {
     alert ("numero1 es negativo o distinto de cero");
  }
  
