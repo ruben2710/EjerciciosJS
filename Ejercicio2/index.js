@@ -2,7 +2,7 @@
 
 // Guardar en un objeto informacion
 
-const celta {
+const celta = {
     day: 20;
     month: 'abril';
 };
