@@ -6,7 +6,7 @@ const topics = ['JavaScript', 'Variables', 'funciones', 'condicionales', 'bucles
 
 // Uso de reverse para colocar sus elementos en orden inverso al original.
 
-const MAYUSCULA = topics.map(eachTopic => eachTopic.toUpperCase());
+const MAYUSCULA = topics.map(Array => Array.toUpperCase());
 MAYUSCULA.reverse();
 
 console.log('topics', topics);
